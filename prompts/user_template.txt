@@ -1,0 +1,11 @@
+Task: {task}
+
+Table name: {table_name}
+Columns: {columns}
+
+Sample rows:
+{sample_rows}
+
+Constraints:
+Excel version: {excel_version}
+Locale: {locale}
