@@ -3,7 +3,7 @@ Task: {task}
 Table name: {table_name}
 Columns: {columns}
 
-Sample rows:
+Sample rows (copied from Excel):
 {sample_rows}
 
 Constraints:
